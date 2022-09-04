@@ -4,3 +4,4 @@
       const myLab = {};
 })();
 
+console.log('Hello!');
